@@ -1,0 +1,2 @@
+# -speakNow
+FaleAgora
